@@ -45,7 +45,7 @@ This project showcases my skills, projects, and contact information with a moder
 
 ## 🌍 Live Demo
 
-🔗 **[View Portfolio Website]()**
+🔗 **[View Portfolio Website](https://sumantkumarsinghportfolio.netlify.app/)**
 
 ---
 
@@ -72,9 +72,9 @@ This project showcases my skills, projects, and contact information with a moder
 
 ## 🧑‍💻 Author
 
-Sumant Kumar Singh
-🌟 Frontend Developer
-🔗 **[GitHub Profile](https://github.com/SumantKrSingh)**
+- Sumant Kumar Singh
+- 🌟 Frontend Developer
+- 🔗 **[GitHub Profile](https://github.com/SumantKrSingh)**
 
 ---
 
@@ -83,7 +83,7 @@ Sumant Kumar Singh
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/SumantKrSingh/portfolio-website.git
+   git clone https://github.com/SumantKrSingh/personal-portfolio-website.git
 ```
 
 2. Open `index.html` in your browser
